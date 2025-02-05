@@ -13,16 +13,6 @@ Please ensure the following before submitting the PR:
 - [ ] **Code is documented**: Add necessary comments or documentation.
 - [ ] **Test environment setup**: Document any setup required to test the changes.
 
-## Instructions for Testing:
-1. **Setup**: 
-   - (List steps to set up the environment for testing)
-2. **Test Commands**: 
-   - (Provide the command(s) to run tests, e.g., `npm run test`)
-
 ## Additional Insights:
 <!-- Any extra details, edge cases, or explanations that might help reviewers understand the context or purpose of this PR -->
 
-## Screenshots
-| Original Screenshot             | Updated Screenshot             |
-| :-----------------------------: | :-----------------------------: |
-| ![Original Screenshot](url-to-original-screenshot) | ![Updated Screenshot](url-to-updated-screenshot) |
